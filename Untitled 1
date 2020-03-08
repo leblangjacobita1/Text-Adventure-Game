@@ -1,0 +1,10 @@
+OBJECTIVE: Create an interactive text game with various options and paths.
+1- Write the story(Scavenger looking for valuables)
+2- Make a function to account for user choice.
+3- Print choices for them to take.
+4- Take in User Input
+5- Split paths into an if/elif option. Repeat from step 3
+Pseudocode: if (userInput= "Choice1"):
+                print("Choice1text")
+            if (userInput= "Choice2"):
+                print("Choice2text")
